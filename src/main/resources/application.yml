@@ -1,0 +1,22 @@
+server:
+  port: 9090
+spring:
+  datasource:
+    driver-class-name: org.h2.Driver
+    password: ''
+    url: jdbc:h2:mem:testdb
+    username: sa
+  mvc:
+    view:
+      prefix: /views/
+      suffix: .jsp
+  h2:
+    console.enabled: true
+phnbook:
+  messages:
+    saveSucc: Contact Saved Successfully
+    updateSucc: Contact Updated Successfully
+    saveFail: Failed to save contact
+logging:
+  file:
+    name: PHONEBOOK-APP.log
