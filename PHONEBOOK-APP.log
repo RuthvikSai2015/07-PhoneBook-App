@@ -1,219 +1,26 @@
-2021-12-10 12:41:02.493  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 12:41:04.308  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 15:40:47.663  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:14:50.501  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:56:07.398  INFO 31156 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 17:56:09.161  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:56:56.005  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:57:10.926  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:57:24.348  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:57:38.490  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:57:41.889  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:57:44.951  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:57:54.272  INFO 31156 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:58:57.646  INFO 31156 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 17:59:19.335  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:00:03.343  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 18:00:05.098  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:19:45.256  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:21:39.485  INFO 31156 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:24:15.242  INFO 31156 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:25:12.205  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:25:58.822  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 18:26:00.652  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 18:56:46.965  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:14:48.636  INFO 31156 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:15:19.264  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:15:25.138  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 19:15:26.677  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:15:31.343  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 19:15:33.176  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:15:35.485  INFO 31156 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 19:15:37.101  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:15:38.549  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 19:15:39.953  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 19:21:44.739  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:39:29.439  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:41:18.172  INFO 31156 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:41:28.157  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:45:16.016  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:46:27.433  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:48:42.888  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:51:52.012  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:54:50.613  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:55:03.064  INFO 31156 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:56:21.469  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:56:33.501  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 21:56:35.109  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:56:43.951  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 21:56:45.178  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:56:49.108  INFO 31156 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 21:56:50.522  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:57:00.870  INFO 31156 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 21:57:02.456  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 21:57:14.345  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 21:57:15.801  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:03:15.771  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:03:32.245  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:03:50.383  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:04:48.219  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:08:38.490  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:11:10.293  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:11:56.686  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:13:09.768  INFO 31156 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:13:12.900  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:13:18.084  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 22:13:19.575  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:13:35.353  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:13:36.700  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:14:50.842  INFO 31156 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:15:22.076  INFO 31156 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:21:25.660  INFO 31156 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:22:57.835  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:23:20.712  INFO 31156 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:23:26.173  INFO 31156 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:23:38.352  INFO 31156 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:24:02.416  INFO 31156 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:24:28.194  INFO 31156 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:24:47.837  INFO 31156 --- [RMI TCP Connection(1610)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
-2021-12-10 22:24:48.039  INFO 31156 --- [RMI TCP Connection(1610)-127.0.0.1] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
-2021-12-10 22:24:48.052  INFO 31156 --- [RMI TCP Connection(1610)-127.0.0.1] .SchemaDropperImpl$DelayedDropActionImpl : HHH000477: Starting delayed evictData of schema as part of SessionFactory shut-down'
-2021-12-10 22:24:48.083  INFO 31156 --- [RMI TCP Connection(1610)-127.0.0.1] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
-2021-12-10 22:24:48.295  WARN 31156 --- [RMI TCP Connection(1610)-127.0.0.1] o.s.b.f.support.DisposableBeanAdapter    : Invocation of destroy method failed on bean with name 'inMemoryDatabaseShutdownExecutor': org.h2.jdbc.JdbcSQLNonTransientConnectionException: Database is already closed (to disable automatic closing at VM shutdown, add ";DB_CLOSE_ON_EXIT=FALSE" to the db URL) [90121-200]
-2021-12-10 22:24:48.298  INFO 31156 --- [RMI TCP Connection(1610)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
-2021-12-10 22:24:48.327  INFO 31156 --- [RMI TCP Connection(1610)-127.0.0.1] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
-2021-12-10 22:25:00.242  INFO 21588 --- [restartedMain] com.ashokit.Application                  : Starting Application using Java 16.0.1 on LAPTOP-K7USDGO6 with PID 21588 (C:\Users\MaliniS\Downloads\JRTP-MiniProjects\07-PhoneBook-App\target\classes started by 000ULY744 in C:\Users\MaliniS\Downloads\JRTP-MiniProjects\07-PhoneBook-App)
-2021-12-10 22:25:00.245  INFO 21588 --- [restartedMain] com.ashokit.Application                  : No active profile set, falling back to default profiles: default
-2021-12-10 22:25:00.291  INFO 21588 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
-2021-12-10 22:25:00.292  INFO 21588 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
-2021-12-10 22:25:00.974  INFO 21588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
-2021-12-10 22:25:01.033  INFO 21588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 50 ms. Found 1 JPA repository interfaces.
-2021-12-10 22:25:01.612  INFO 21588 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
-2021-12-10 22:25:01.626  INFO 21588 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
-2021-12-10 22:25:01.627  INFO 21588 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
-2021-12-10 22:25:01.883  INFO 21588 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
-2021-12-10 22:25:01.892  INFO 21588 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
-2021-12-10 22:25:01.892  INFO 21588 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1600 ms
-2021-12-10 22:25:01.935  INFO 21588 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
-2021-12-10 22:25:02.138  INFO 21588 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
-2021-12-10 22:25:02.145  INFO 21588 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
-2021-12-10 22:25:02.256  INFO 21588 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
-2021-12-10 22:25:02.319  INFO 21588 --- [task-1] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
-2021-12-10 22:25:02.365  WARN 21588 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
-2021-12-10 22:25:02.410  INFO 21588 --- [task-1] org.hibernate.Version                    : HHH000412: Hibernate ORM core version 5.4.23.Final
-2021-12-10 22:25:02.598  INFO 21588 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
-2021-12-10 22:25:02.636  INFO 21588 --- [task-1] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
-2021-12-10 22:25:02.734  INFO 21588 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
-2021-12-10 22:25:02.806  INFO 21588 --- [task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
-2021-12-10 22:25:02.820  INFO 21588 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
-2021-12-10 22:25:02.822  INFO 21588 --- [restartedMain] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
-2021-12-10 22:25:03.474  INFO 21588 --- [task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
-2021-12-10 22:25:03.483  INFO 21588 --- [task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
-2021-12-10 22:25:03.757  INFO 21588 --- [restartedMain] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
-2021-12-10 22:25:03.766  INFO 21588 --- [restartedMain] com.ashokit.Application                  : Started Application in 3.958 seconds (JVM running for 7.265)
-2021-12-10 22:25:27.893  INFO 21588 --- [http-nio-9090-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
-2021-12-10 22:25:27.893  INFO 21588 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
-2021-12-10 22:25:27.895  INFO 21588 --- [http-nio-9090-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 1 ms
-2021-12-10 22:25:28.334  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ***** Contacts Are Not Available in DB *****
-2021-12-10 22:25:28.335  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:25:42.049  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:25:43.316  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:25:55.388  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:26:07.712  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:26:09.004  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:26:17.092  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:26:18.247  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:26:22.625  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:26:24.021  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:26:33.279  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:26:34.590  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:26:49.325  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:26:56.417  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:26:57.694  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:27:01.533  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 22:27:03.098  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:27:11.330  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:27:12.581  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:28:38.133  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:28:55.369  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:29:16.531  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:31:01.265  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:31:52.641  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:32:05.171  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:32:06.315  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:32:09.607  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:32:10.762  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:32:13.805  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:32:15.073  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:32:18.560  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:32:19.819  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:34:38.465  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:37:17.804  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:37:40.722  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:37:52.865  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:38:08.588  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:38:17.621  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:38:31.847  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:02.577  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:24.168  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:25.472  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:27.277  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:28.693  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:30.594  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:33.392  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:39:43.899  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:40:32.317  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:40:33.553  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:40:36.022  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:40:39.609  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:40:41.465  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:41:02.542  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:41:17.156  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:41:48.319  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:41:50.546  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:41:53.593  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:42:12.899  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:42:15.480  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:42:51.261  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:42:53.905  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:43:07.953  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:44:29.506  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:48:32.446  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:48:45.752  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:49:22.715  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:50:18.129  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:50:29.710  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:50:42.453  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:50:43.769  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:50:50.442  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:50:51.773  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:50:54.971  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:50:56.243  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:50:59.194  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:51:00.518  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:51:27.609  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 22:51:28.975  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:51:31.322  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 22:51:32.758  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:52:12.341  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:55:29.740  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:58:44.071  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:58:53.688  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 22:59:44.420  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:00:17.561  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:06:01.718  INFO 21588 --- [http-nio-9090-exec-2] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 23:06:03.136  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:06:06.696  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 23:06:08.211  INFO 21588 --- [http-nio-9090-exec-1] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:06:12.238  INFO 21588 --- [http-nio-9090-exec-4] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 23:06:13.559  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:06:23.235  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 23:06:24.612  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:06:30.904  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 23:06:32.188  INFO 21588 --- [http-nio-9090-exec-8] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:08:21.239  INFO 21588 --- [http-nio-9090-exec-10] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 23:08:22.816  INFO 21588 --- [http-nio-9090-exec-3] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:08:32.544  INFO 21588 --- [http-nio-9090-exec-6] c.ashokit.controller.ContactController   : **** Contact Deleted Successfully ****
-2021-12-10 23:08:34.382  INFO 21588 --- [http-nio-9090-exec-5] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
-2021-12-10 23:09:31.746  INFO 21588 --- [http-nio-9090-exec-7] c.ashokit.controller.ContactController   : **** Contact Saved Successfully *****
-2021-12-10 23:09:33.124  INFO 21588 --- [http-nio-9090-exec-9] c.ashokit.controller.ContactController   : ****** viewContacts execution completed successfully *****
+2021-12-10 23:58:21.666  INFO 21588 --- [restartedMain] com.ashokit.Application                  : Starting Application using Java 16.0.1 on LAPTOP-K7USDGO6 with PID 21588 (C:\Users\MaliniS\Downloads\JRTP-MiniProjects\07-PhoneBook-App\target\classes started by 000ULY744 in C:\Users\MaliniS\Downloads\JRTP-MiniProjects\07-PhoneBook-App)
+2021-12-10 23:58:21.667  INFO 21588 --- [restartedMain] com.ashokit.Application                  : No active profile set, falling back to default profiles: default
+2021-12-10 23:58:22.063  INFO 21588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data JPA repositories in DEFERRED mode.
+2021-12-10 23:58:22.085  INFO 21588 --- [restartedMain] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 21 ms. Found 1 JPA repository interfaces.
+2021-12-10 23:58:22.241  INFO 21588 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 9090 (http)
+2021-12-10 23:58:22.243  INFO 21588 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-12-10 23:58:22.243  INFO 21588 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.39]
+2021-12-10 23:58:22.428  INFO 21588 --- [restartedMain] org.apache.jasper.servlet.TldScanner     : At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+2021-12-10 23:58:22.437  INFO 21588 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-12-10 23:58:22.437  INFO 21588 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 765 ms
+2021-12-10 23:58:22.481  INFO 21588 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2021-12-10 23:58:22.486  INFO 21588 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2021-12-10 23:58:22.486  INFO 21588 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:mem:testdb'
+2021-12-10 23:58:22.526  INFO 21588 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-12-10 23:58:22.539  INFO 21588 --- [task-1] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [name: default]
+2021-12-10 23:58:22.558  INFO 21588 --- [task-1] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.H2Dialect
+2021-12-10 23:58:22.635  WARN 21588 --- [restartedMain] JpaBaseConfiguration$JpaWebConfiguration : spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+2021-12-10 23:58:22.646  INFO 21588 --- [task-1] o.h.e.t.j.p.i.JtaPlatformInitiator       : HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2021-12-10 23:58:22.650  INFO 21588 --- [task-1] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2021-12-10 23:58:22.731  INFO 21588 --- [task-2] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-12-10 23:58:22.762  INFO 21588 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-12-10 23:58:22.872  INFO 21588 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 9090 (http) with context path ''
+2021-12-10 23:58:22.873  INFO 21588 --- [restartedMain] DeferredRepositoryInitializationListener : Triggering deferred initialization of Spring Data repositories…
+2021-12-10 23:58:22.958  INFO 21588 --- [restartedMain] DeferredRepositoryInitializationListener : Spring Data repositories initialized!
+2021-12-10 23:58:22.965  INFO 21588 --- [restartedMain] com.ashokit.Application                  : Started Application in 1.377 seconds (JVM running for 5606.463)
+2021-12-10 23:58:22.968  INFO 21588 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
